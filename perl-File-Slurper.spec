@@ -7,7 +7,7 @@
 #
 Name     : perl-File-Slurper
 Version  : 0.014
-Release  : 30
+Release  : 31
 URL      : https://cpan.metacpan.org/authors/id/L/LE/LEONT/File-Slurper-0.014.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/L/LE/LEONT/File-Slurper-0.014.tar.gz
 Source1  : http://http.debian.net/debian/pool/main/libf/libfile-slurper-perl/libfile-slurper-perl_0.012-1.debian.tar.xz
